@@ -1,5 +1,19 @@
 ## Front-end Developer Test
 
+To view, run
+
+```
+  yarn install
+```
+
+&&
+
+```
+  yarn run dev
+```
+
+It will automatically open the index page, please connect your spotify account and try searching for an artist in the left sidebar. The giphy search functionality is in the right sidebar. There is very minimal styling on the overall page.
+
 ### Devcenter Frontend Developer Test II
 
 The purpose of this test is not only to quickly gauge an applicant's abilities with working with APIs, but also their approach to development.
@@ -26,8 +40,6 @@ If you choose to use build tools to compile your CSS and Javascript (such as SAS
 
 This fictitious project is part of a larger plan to reuse templates for multiple properties. When authoring your CSS ensure that it is easy for another developer to find and change things such as fonts and colours.
 
-
 ## Good luck!
 
 We look forward to seeing what you can do. Remember, although it is a test, there are no specific right or wrong answers that we are looking for - just do the job as best you can. Any questions - create an issue in the panel on the right (requires a Github account).
-
