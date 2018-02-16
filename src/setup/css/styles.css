@@ -1,0 +1,6 @@
+@import './animation';
+@import './reset';
+@import './fonts';
+
+@tailwind preflight;
+@tailwind utilities;

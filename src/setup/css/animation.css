@@ -1,0 +1,35 @@
+@responsive {
+  .dur-1 {
+    transition-duration: 0.1s;
+  }
+  .dur-2 {
+    transition-duration: 0.2s;
+  }
+  .dur-3 {
+    transition-duration: 0.3s;
+  }
+  .dur-4 {
+    transition-duration: 0.4s;
+  }
+  .dur-5 {
+    transition-duration: 0.5s;
+  }
+  .dur-6 {
+    transition-duration: 0.6s;
+  }
+  .dur-7 {
+    transition-duration: 0.7s;
+  }
+  .dur-8 {
+    transition-duration: 0.8s;
+  }
+  .dur-9 {
+    transition-duration: 0.9s;
+  }
+  .dur-10 {
+    transition-duration: 1s;
+  }
+  .dur-12 {
+    transition-duration: 1.2s;
+  }
+}
